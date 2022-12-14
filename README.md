@@ -14,7 +14,9 @@ or Clone with ```git clone https://github.com/phucht95/ds-nano-udacity-capstone-
 * Open terminal, go to project folder, type: ```python app.py``` 
 * After that, open link on browser: http://127.0.0.1:8080/
 <img src="images/Capture1.PNG">
+
 * Upload file and click on DETECT
 * Result after detected
 <img src="images/Capture2.PNG">
+
 * Click on NEXT to go to main page
